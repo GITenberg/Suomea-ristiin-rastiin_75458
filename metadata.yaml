@@ -1,0 +1,36 @@
+_repo: Suomea-ristiin-rastiin_75458
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lampén, Ernst
+    alias: Lampen, Ernst
+    birthdate: 1865
+    deathdate: 1938
+    gutenberg_agent_id: '43565'
+    url: http://www.gutenberg.org/2009/agents/43565
+    wikipedia: https://fi.wikipedia.org/wiki/Ernst_Lamp%C3%A9n
+description: ''
+gutenberg_issued: '2025-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75458'
+language: fi
+pgterms:marc905: 20250212232119ampn
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- Description and travel'
+- !lcc 'DK'
+- GITenberg
+tableOfContents: Matkailun aatteellinen tarkoitus -- Matkailijoita Jumalan armosta
+  -- Vaikutelmia automobiilimatkalta kesällä 1913 -- Tukkilaisten ja noitien parissa
+  -- Suomussalmelle -- Hyrynsalmen reittiä laskemassa -- Jekaterina Panfilovna --
+  Punkaharju -- Joulumatka 37 asteen pakkasessa -- Hämeessä -- Matka kirkkoveneessä
+  -- Savo -- Kiertomatka Itämeren ympäri 1913 -- Matka Valamoon 1914.
+title: Suomea ristiin rastiin
+url: http://www.gutenberg.org/ebooks/75458
